@@ -1,3 +1,6 @@
+//TC=   n!*n
+//SC=  1
+
 class Solution{
     public:
     void permute(string &s, int i, vector<string>&ans ) {
